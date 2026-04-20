@@ -7,7 +7,7 @@ Un'implementazione del celebre gioco di parole **Wordle**, sviluppata interament
   * 🟩 **Lettere corrette** nella posizione esatta.
   * 🟨 **Lettere presenti** ma in posizione errata.
   * ⬛ **Lettere assenti** nella parola segreta.
-* **Gestione Dizionario:** Caricamento dinamico delle parole da file esterno.
+* **Gestione Dizionario:** Gestione interna del set di parole per garantire l'autonomia del software.
 * **Sistema di Tentativi:** Limite di 6 tentativi con feedback immediato all'utente.
 
 ## 🛠️ Tech Stack
